@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:3px;
+}
+
+h1 { background-color:rgb(0,0,0);
+}
+.White{
+    color:white;
+    font-style: italic;
+    
+}
+.Blue{
+    color:mediumspringgreen
+}
+.second{
+    background-color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+.second1{
+    font-style: italic;
+}
+.third {
+    background-color: lightblue;
+    font-size: medium;
+    text-decoration: underline;
+    text-align: right;
+}
